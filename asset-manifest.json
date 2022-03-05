@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ppmyor/movie-introduction-app/static/css/main.073c9b0a.css",
-    "main.js": "/ppmyor/movie-introduction-app/static/js/main.1929115f.js",
-    "static/js/787.ff973d48.chunk.js": "/ppmyor/movie-introduction-app/static/js/787.ff973d48.chunk.js",
-    "static/media/logo.svg": "/ppmyor/movie-introduction-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ppmyor/movie-introduction-app/index.html",
-    "main.073c9b0a.css.map": "/ppmyor/movie-introduction-app/static/css/main.073c9b0a.css.map",
-    "main.1929115f.js.map": "/ppmyor/movie-introduction-app/static/js/main.1929115f.js.map",
-    "787.ff973d48.chunk.js.map": "/ppmyor/movie-introduction-app/static/js/787.ff973d48.chunk.js.map"
+    "main.css": "/movie-introduction-app/static/css/main.073c9b0a.css",
+    "main.js": "/movie-introduction-app/static/js/main.d3351734.js",
+    "static/js/787.ff973d48.chunk.js": "/movie-introduction-app/static/js/787.ff973d48.chunk.js",
+    "static/media/logo.svg": "/movie-introduction-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/movie-introduction-app/index.html",
+    "main.073c9b0a.css.map": "/movie-introduction-app/static/css/main.073c9b0a.css.map",
+    "main.d3351734.js.map": "/movie-introduction-app/static/js/main.d3351734.js.map",
+    "787.ff973d48.chunk.js.map": "/movie-introduction-app/static/js/787.ff973d48.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1929115f.js"
+    "static/js/main.d3351734.js"
   ]
 }
